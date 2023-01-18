@@ -8,3 +8,8 @@ fn test_something() {
   // ...
 }
 ```
+
+### Run
+```shell
+cargo test
+```
