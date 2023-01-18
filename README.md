@@ -9,7 +9,12 @@ fn test_something() {
 }
 ```
 
-### Run
+### Use
+
+```shell
+cargo new --lib midpoint
+```
+
 ```shell
 cargo test
 ```
